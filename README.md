@@ -1,16 +1,19 @@
-## Hi there 👋
+Paul Roeseler - [@PaulRoeseler](https://github.com/PaulRoeseler)
+Currently the CTO of Swisscoding Technologies in Zurich.
 
-<!--
-**PaulRoeseler/PaulRoeseler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[email](mailto:p.c.roeseler@gmail.com)
 
-Here are some ideas to get you started:
+My Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* CTO / Lead Developer at Swisscoding Technologies building clinical-coding LLM agents (RL post-training, production inference, synthetic data).
+* Senior AI Engineer at IBM working on multimodal document AI + agentic RAG and LLM post-training (distillation / DPO).
+
+My Projects
+
+* [Tournament Reranker](https://github.com/PaulRoeseler/tournament-reranker) - dependency-light Python library for LLM reranking using a tournament / pyramid strategy. (Python, LLMs)
+* [ORFA / IORFA — An Optimal RuleFit Algorithm](https://github.com/PaulRoeseler/An-Optimal-RuleFit-Algorithm) - optimal-tree RuleFit + single-step mixed-integer formulation. (Python, MIO, interpretability)
+
+Misc
+
+* Mostly: LLM post-training, optimization, document intelligence, infra for training/inference.
+
