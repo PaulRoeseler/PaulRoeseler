@@ -4,7 +4,7 @@ Currently the CTO of Swisscoding Technologies in Zurich.
 
 My Experience
 
-* CTO / Lead Developer at Swisscoding Technologies building clinical-coding LLM agents (RL post-training, production inference, synthetic data).
+* CTO at Swisscoding Technologies building clinical-coding LLM agents (RL post-training, production inference, synthetic data).
 * Senior AI Engineer at IBM working on multimodal document AI + agentic RAG and LLM post-training (distillation / DPO).
 
 My Projects
