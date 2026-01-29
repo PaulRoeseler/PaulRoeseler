@@ -1,7 +1,5 @@
-Paul Roeseler - [@PaulRoeseler](https://github.com/PaulRoeseler)
+Paul Roeseler [email](mailto:p.c.roeseler@gmail.com)
 Currently the CTO of Swisscoding Technologies in Zurich.
-
-[email](mailto:p.c.roeseler@gmail.com)
 
 My Experience
 
