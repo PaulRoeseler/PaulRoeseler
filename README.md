@@ -1,4 +1,5 @@
-Paul Roeseler [email](mailto:p.c.roeseler@gmail.com)
+Paul Roeseler ([email](mailto:p.c.roeseler@gmail.com))
+
 Currently the CTO of Swisscoding Technologies in Zurich.
 
 My Experience
