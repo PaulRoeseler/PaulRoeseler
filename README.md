@@ -11,6 +11,7 @@ My Projects
 
 * [Tournament Reranker](https://github.com/PaulRoeseler/tournament-reranker) - dependency-light Python library for LLM reranking using a tournament / pyramid strategy. (Python, LLMs)
 * [ORFA / IORFA — An Optimal RuleFit Algorithm](https://github.com/PaulRoeseler/An-Optimal-RuleFit-Algorithm) - optimal-tree RuleFit + single-step mixed-integer formulation. (Python, MIO, interpretability)
+* [helpit](https://github.com/PaulRoeseler/helpit) - LLM-powered wrapper around Python’s `help()` that lets you ask questions about concrete objects with doc-grounded answers.
 
 Misc
 
