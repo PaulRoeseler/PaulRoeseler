@@ -1,10 +1,10 @@
 Paul Roeseler ([email](mailto:p.c.roeseler@gmail.com))
 
-Currently the CTO of Swisscoding Technologies in Zurich.
+Currently the at Swisscoding Technologies in Zurich.
 
 My Experience
 
-* CTO at Swisscoding Technologies building clinical-coding LLM agents (RL post-training, production inference, synthetic data).
+* Building clinical-coding LLM agents (RL post-training, production inference, synthetic data) at Swisscoding Technologies.
 * Senior AI Engineer at IBM working on multimodal document AI + agentic RAG and LLM post-training (distillation / DPO).
 
 My Projects
@@ -15,5 +15,5 @@ My Projects
 
 Misc
 
-* Mostly: LLM post-training, optimization, document intelligence, infra for training/inference.
+* Mostly: LLM post-training, optimization, infra for training/inference.
 
